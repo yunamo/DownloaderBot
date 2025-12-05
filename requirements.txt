@@ -1,0 +1,7 @@
+aiogram==3.4.1
+yt-dlp
+pytube
+requests
+pillow
+instaloader
+python-dotenv
